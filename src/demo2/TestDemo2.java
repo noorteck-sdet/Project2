@@ -20,5 +20,7 @@ public class TestDemo2 {
 		// By: Zain
 
 		System.out.println(b-a);  //Subtract variable a from b   --> Hadeel
-	}
+	
+		System.out.println(a+b+c); //added all variables By Simaa
+	} 
 }
