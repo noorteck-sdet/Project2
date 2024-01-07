@@ -24,7 +24,7 @@ public class TestDemo1 {
             System.out.println("Cannot divide by zero.");
         }
 		
-	 // Display the results	
+	 // Display the arithmetic results	
 	System.out.println("Sum: " + num1+num2);
         System.out.println("Difference: " +( num1-num2));
         System.out.println("Product: " + num1*num2);
