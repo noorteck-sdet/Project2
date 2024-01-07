@@ -11,10 +11,10 @@ public class TestDemo2 {
 
 		System.out.println("Good Job Team 2 Keep practicing");
 		
-		int a ;
-		int b ; // Error add semi-colon -->Ruby
-		
-		System.out.println(a+c);
+		int a = 5;
+		int b = 10; // Error add semi-colon -->Ruby
+		int c = 0;
+		System.out.println(a+c); // added variable C and assign value ->Ruby
 
 		// By: Zain
 	}
