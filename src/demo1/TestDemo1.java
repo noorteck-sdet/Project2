@@ -14,6 +14,8 @@ public class TestDemo1 {
        product = num1 * num2	
 	quotient = num1 / num2	Cannot divide by zero.
 		*/
+		
+		//calculator project
 	}
 	public void arithmetic(double num1, double num2){
 		if (num2 != 0) {
