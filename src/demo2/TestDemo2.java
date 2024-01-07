@@ -12,7 +12,7 @@ public class TestDemo2 {
 		System.out.println("Good Job Team 2 Keep practicing");
 		
 		int a ;
-		int b 
+		int b ; // Error add semi-colon -->Ruby
 		
 		System.out.println(a+c);
 
