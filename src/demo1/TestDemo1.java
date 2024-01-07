@@ -6,15 +6,18 @@ public class TestDemo1 {
 
 	  // Perform basic arithmetic operations
 		
-		double num1 =0;
-		double num2 =0;
+		double num1 =14.8; //altered values to non-zero values
+		double num2 =16.4; //altered values to non-zero values 
 	/**
 	 sum = num1 + num2
         difference = num1 - num2
        product = num1 * num2	
 	quotient = num1 / num2	Cannot divide by zero.
 		*/
-		
+	// Calling the arithmetic method 
+	TestDemo1 calculator = new TestDemo1();
+	calculator.arithmetic(num1, num2);
+	
 		//calculator project
 	}
 	public void arithmetic(double num1, double num2){
