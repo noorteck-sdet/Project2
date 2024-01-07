@@ -8,12 +8,12 @@ public class TestDemo1 {
 		
 		double num1 =0;
 		double num2 =0;
-	/**
-	 sum = num1 + num2
-        difference = num1 - num2
-       product = num1 * num2	
-	quotient = num1 / num2	Cannot divide by zero.
-		*/
+		/**
+		 * sum = num1 + num2 
+		 * difference = num1 - num2 
+		 * product = num1 * num2 
+		 * quotient = num1 / num2 Cannot divide by zero.
+		 */
 		
 		//calculator project
 	}
