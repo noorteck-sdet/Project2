@@ -18,5 +18,7 @@ public class TestDemo2 {
 		System.out.println(a+c); // added variable C and assign value ->Ruby
 
 		// By: Zain
+
+		System.out.println(b-a);  //Subtract variable a from b   --> Hadeel
 	}
 }
